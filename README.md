@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hussein-Mohammed
 - 👀 I’m interested in Pattern Recognition, Machine Learning and Computer Vision
-- 🌱 I’m currently working as a principal investigator in the Cluster of Excellence at CSMC / Universität Hamburg
+- 🌱 I’m the Head of the Visual Manuscript Analysis (VMA) lab at Universität Hamburg, the Centre for the Study of Manuscript Cultures
 - 💞️ I’m looking to collaborate on Pattern Analysis for Manuscript Research
 - 📫 How to reach me: https://www.csmc.uni-hamburg.de/about/people/mohammed.html 
 
